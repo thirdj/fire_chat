@@ -7,3 +7,9 @@
 * push.js
 * embed.js
 * etc... webRTC
+
+``` sh
+$ firebase serve
+$ http://localhost:5000
+```
+
