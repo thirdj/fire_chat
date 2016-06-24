@@ -11,5 +11,6 @@
 ``` sh
 $ firebase serve
 $ http://localhost:5000
+$ https://project-1877373051430792480.firebaseapp.com/
 ```
 
