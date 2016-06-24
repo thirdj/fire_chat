@@ -1,0 +1,26 @@
+{
+  "name": "fire_chat",
+  "version": "1.0.0",
+  "description": "chat = firebase + push.js + embed.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirdj/fire_chat.git"
+  },
+  "keywords": [
+    "chat",
+    "firebase",
+    "pushjs",
+    "embedjs",
+    "webRTC"
+  ],
+  "author": "thirdjj@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thirdj/fire_chat/issues"
+  },
+  "homepage": "https://github.com/thirdj/fire_chat#readme"
+}
